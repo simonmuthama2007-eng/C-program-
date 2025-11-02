@@ -2,7 +2,7 @@
 /*
 name; Simon Mutisya Muthama 
 Reg;CT100/G/26227/25
-description ;Hello word program 
+description: units for this semester 
 */
 #include<stdio.h>
 
